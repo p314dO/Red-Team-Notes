@@ -1,0 +1,5 @@
+- [ ] Ping
+- [ ] Nmap
+	- [ ] Escaneo TCP
+	- [ ] Escaneo UDP
+- [ ] 

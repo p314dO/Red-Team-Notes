@@ -1,0 +1,14 @@
+{
+  "readableLineLength": true,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "vimMode": false,
+  "promptDelete": false
+}

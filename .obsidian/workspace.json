@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "d7fd0cb4ff3364c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3108669a05a1025b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fb4e74781dd8ead",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "07 - FORTRESSES/JET/images/Pasted image 20240724141649.png"
+              }
+            }
+          },
+          {
+            "id": "ffca9e51f74faabf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240724185408.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25971012ea51ffbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d08def8f7cd0afbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d02f42e05df5260f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0b5cc9a3ef50e86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd1a293a802f3303",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "113ad783f8c0afe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ee775fcee957d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4059d6cd5c008d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20240724185408.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4870de41a256ec19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20240724185408.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e7fc7620b819dc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02ae04fd80a74487",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20240724185408.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ffca9e51f74faabf",
+  "lastOpenFiles": [
+    "07 - FORTRESSES/Akerva/FLAG-2.md",
+    "07 - FORTRESSES/Akerva/FLAG-1.md",
+    "07 - FORTRESSES/Akerva/FLAG-6.md",
+    "07 - FORTRESSES/Akerva/FLAG-5.md",
+    "07 - FORTRESSES/Akerva/FLAG-4.md",
+    "07 - FORTRESSES/Akerva/FLAG-3.md",
+    "07 - FORTRESSES/FARADAY/00-Reconn.md",
+    "Pasted image 20240724185408.png",
+    "07 - FORTRESSES/CONTEXT/images/Pasted image 20240724180741.png",
+    "07 - FORTRESSES/CONTEXT/images/Pasted image 20240724181557.png",
+    "07 - FORTRESSES/JET/images/Pasted image 20240724141721.png",
+    "07 - FORTRESSES/JET/images/Pasted image 20240724141649.png",
+    "07 - FORTRESSES/JET/images/Pasted image 20240724131038.png",
+    "07 - FORTRESSES/JET/images/Pasted image 20240724141433.png",
+    "07 - FORTRESSES/JET/images/Pasted image 20240724135950.png",
+    "07 - FORTRESSES/CONTEXT/images/Pasted image 20240724180758.png",
+    "07 - FORTRESSES/CONTEXT/00-Reconn.md",
+    "07 - FORTRESSES/CONTEXT/FLAG-02.md",
+    "07 - FORTRESSES/CONTEXT/FLAG-01.md",
+    "08 - NETWORK SERVICES/53-DNS.md",
+    "07 - FORTRESSES/JET/FLAG-03.md",
+    "07 - FORTRESSES/JET/images/Pasted image 20240724141352.png",
+    "07 - FORTRESSES/JET/FLAG-02.md",
+    "07 - FORTRESSES/AWS/FLAG-01.md",
+    "07 - FORTRESSES/JET/00-Reconn.md",
+    "07 - FORTRESSES/JET/FLAG-01.md",
+    "07 - FORTRESSES/Akerva/00-Reconn.md",
+    "07 - FORTRESSES/AWS/00-Recon.md",
+    "08 - NETWORK SERVICES/389-LDAP.md",
+    "08 - NETWORK SERVICES/88-KERBEROS.md",
+    "08 - NETWORK SERVICES/445-SMB.md",
+    "08 - NETWORK SERVICES/5985-5986-WinRM.md",
+    "08 - NETWORK SERVICES/3389-RDP.md",
+    "07 - FORTRESSES/SYNACKTIV/00-Reconn.md",
+    "07 - FORTRESSES/SYNACKTIV/00-Reconn",
+    "07 - FORTRESSES/SYNACKTIV/images",
+    "07 - FORTRESSES/JET/images",
+    "07 - FORTRESSES/FARADAY/images",
+    "07 - FORTRESSES/CONTEXT/images",
+    "07 - FORTRESSES/AWS/images",
+    "07 - FORTRESSES/CONTEXT",
+    "07 - FORTRESSES/FARADAY",
+    "07 - FORTRESSES/SYNACKTIV",
+    "07 - FORTRESSES/Akerva/FLAG-8.md",
+    "07 - FORTRESSES/JET",
+    "07 - FORTRESSES/Akerva/FLAG-7.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
